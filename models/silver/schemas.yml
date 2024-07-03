@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: cust_detail
+  - name: det_ent_ord
+  - name: pyments_det
